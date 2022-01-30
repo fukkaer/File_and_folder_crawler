@@ -1,2 +1,25 @@
 # File_and_folder_crawler
 It's self descriptive. Made Jan. 2022
+- .
+- .
+- Came up with this program while making the random file picker, yesterday.
+- The overall goal is to make an O.S in python that runs over windows, eventually. The idea is completely useless, but still fun and intriguing.
+- .
+- How to use: open file. typing help, lists commands
+- Command list:
+- cd: allows changing of directories.
+- cd quick commands (input after typing cd, then enter): documents, music, desktop, downloads, pictures.
+- open: open will ask whether you are opening a file or folder ( this was to avoid the program unintentionally making a file into the new directory path.)
+- file ( input after open): will open a file using your default application for said file.
+- folder (input after open): will make the folder name you type in, into your new directory.
+- random: opens a random file inside the current folder
+- listdir: lists all items inside folder
+- time: tells the time.
+- .
+- the program relies upon making a txt file called current_dir.txt, which will be ovewritten everytime the directory changes. This was to avoid problems with the directory staying as a static C://users
+- .
+- .
+- V.0.1 Notes: working as intended. However, calculator function has not been added yet. Made 05:10 2022-01-30 in about 5 hours.
+- .
+- .
+- If anyone actually tries to use this program, why?
