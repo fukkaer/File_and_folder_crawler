@@ -20,6 +20,6 @@ It's self descriptive. Made Jan. 2022
 - .
 - .
 - V.0.1 Notes: working as intended. However, calculator function has not been added yet. Made 05:10 2022-01-30 in about 5 hours.
-- V.0.2 Change Notes: Added Simple calculator function, however as of yet it can only use whole numbers, access via calc, and remember to use spaces between numbers and equation symbols like: 1 + 1. Moved all functions into classes. Added Web Page function, that will open a web page in your browser, access function, via web. Going to add a unit conversion class in V.0.3.
+- V.0.2 Change Notes: Added Simple calculator function, however as of yet it can only use whole numbers, access via calc command, and remember to use spaces between numbers and equation symbols, like: 1 + 1. Moved all functions into classes. Added Web Page function, that will open a web page in your browser, access function via web command. Going to add a unit conversion class in V.0.3.
 - .
 - If anyone actually tries to use this program, why?
