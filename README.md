@@ -30,7 +30,8 @@ It's self descriptive. Made Jan. 2022
 - V.0.2.1 Change Notes: changed integars to floats, to allow calculator to use decimals
 - V.0.3 Change Notes: moved open folder function, to the main function. Changed how the input command works to allow for 3 words instead of only one. Added unit converter, accessed via convert command, forgot to update help command, to display converter as a commmand. Made 2022-01-31 09:10
 - V.0.4 Change Notes: Now 3 word open file command is allowed. Added temperature converter, random loop function, coin flip, and floor tile cost calculator. Made 2022-01-31 12:00
-- V.0.5 Update Plans: Add scissors paper rock game and "choose your own adventure text-based game". Coming out 2022-02-01, probably. 
+- V.0.5 Update Plans: Add scissors paper rock game. Coming out 2022-02-01, probably.
+- Note on text advanture. It is taking a lot longer than expected, figuring out what text adventures are and how they work as i go. v.0.1 will probably be out 02.02.2022 
 - V.0.6 Update Plans: weather tracking.
 - V.0.7 Update Plans: Integrate program that tracks public transport by district and area, inside Uusimaa though.
 - .
