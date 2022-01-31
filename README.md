@@ -15,6 +15,8 @@ It's self descriptive. Made Jan. 2022
 - random: opens a random file inside the current folder
 - listdir: lists all items inside folder
 - time: tells the time.
+- calc: opens built-in calculator. command to exit calculator is quit or exit
+- web: will ask you which webpage to open, ex. type www.google.com to open google in your web browser, not sure if it always opens default browser, as webbrowser function occasionally opened Internet Explorer while I was making the Random File Opener program.
 - .
 - the program relies upon making a txt file called current_dir.txt, which will be ovewritten everytime the directory changes. This was to avoid problems with the directory staying as a static C://users
 - .
