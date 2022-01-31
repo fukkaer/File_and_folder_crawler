@@ -7,16 +7,17 @@ It's self descriptive. Made Jan. 2022
 - .
 - How to use: open file. typing help, lists commands
 - Command list:
-- cd: allows changing of directories.
-- cd quick commands (input after typing cd, then enter): documents, music, desktop, downloads, pictures.
+- cd: allows changing of directories. V.0.3 Notes: 2 word command usable, ex. cd C:/users/example/music
+- cd quick commands (input after typing cd, ex. cd music): documents, music, desktop, downloads, pictures.
 - open: open will ask whether you are opening a file or folder ( this was to avoid the program unintentionally making a file into the new directory path.)
-- file ( input after open): will open a file using your default application for said file.
-- folder (input after open): will make the folder name you type in, into your new directory.
+- file ( input after open. ex. open file): will open a file using your default application for said file. cannot use a 3 word command as of V.0.3
+- folder (input after open. ex. open folder Example.): will make the folder name you type in, into your new directory.
 - random: opens a random file inside the current folder
 - listdir: lists all items inside folder
 - time: tells the time.
 - calc: opens built-in calculator. command to exit calculator is quit or exit
 - web: will ask you which webpage to open, ex. type www.google.com to open google in your web browser, not sure if it always opens default browser, as webbrowser function occasionally opened Internet Explorer while I was making the Random File Opener program.
+- converter: opens built in unit converter.
 - .
 - the program relies upon making a txt file called current_dir.txt, which will be ovewritten everytime the directory changes. This was to avoid problems with the directory staying as a static C://users
 - .
@@ -24,6 +25,6 @@ It's self descriptive. Made Jan. 2022
 - V.0.1 Notes: working as intended. However, calculator function has not been added yet. Made 05:10 2022-01-30 in about 5 hours.
 - V.0.2 Change Notes: Added Simple calculator function, however as of yet it can only use whole numbers, access via calc command, and remember to use spaces between numbers and equation symbols, like: 1 + 1. Moved all functions into classes. Added Web Page function, that will open a web page in your browser, access function via web command. Going to add a unit conversion class in V.0.3. Made 2022-01-31 ~4:00
 - V.0.2.1 Change Notes: changed integars to floats, to allow calculator to use decimals
-- V.0.3 Change Notes: moved open folder function, to the main function. Changed how the input command works to allow for 3 words instead of only one.
+- V.0.3 Change Notes: moved open folder function, to the main function. Changed how the input command works to allow for 3 words instead of only one. Added unit converter, accessed via convert command, forgot to update help command, to display converter as a commmand. Made 2022-01-31 09:10
 - .
 - If anyone actually tries to use this program, why?
