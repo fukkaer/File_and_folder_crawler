@@ -26,5 +26,6 @@ It's self descriptive. Made Jan. 2022
 - V.0.2 Change Notes: Added Simple calculator function, however as of yet it can only use whole numbers, access via calc command, and remember to use spaces between numbers and equation symbols, like: 1 + 1. Moved all functions into classes. Added Web Page function, that will open a web page in your browser, access function via web command. Going to add a unit conversion class in V.0.3. Made 2022-01-31 ~4:00
 - V.0.2.1 Change Notes: changed integars to floats, to allow calculator to use decimals
 - V.0.3 Change Notes: moved open folder function, to the main function. Changed how the input command works to allow for 3 words instead of only one. Added unit converter, accessed via convert command, forgot to update help command, to display converter as a commmand. Made 2022-01-31 09:10
+- V.0.4 Update Plans: allow 3 word open file command. add temperature converter, add random loop function, add coin flip, and maybe add that scissors paper rock game or "make your own adventure game", and floor tile cost calculator. Coming out 2022-02-01. 
 - .
 - If anyone actually tries to use this program, why?
