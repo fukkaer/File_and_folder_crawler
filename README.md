@@ -32,7 +32,7 @@ It's self descriptive. Made Jan. 2022
 - V.0.4 Change Notes: Now 3 word open file command is allowed. Added temperature converter, random loop function, coin flip, and floor tile cost calculator. Made 2022-01-31 12:00... Note: V.0.4 has error when entering files or folders that contain spaces, will be fixed in next version. coin_flip had error where it only repeats one answer, this was due to writing tails for both outputs on accident. be fixed in next version.
 - V.0.4.2 Update Notes: Whole Program rewritten to make multiple word commands work easier, and incorporate dictionary for commands. Incorperating different languages, because I figure it might be useful to know how to do. Whole program will have English, Finnish, and Swedish language options, that can be switched, using a commmand. It will write to a seperate language text file, that contains default language. - mostly done with dictionaries, only have swedish left, but I'll probably leave that to v.0.5, hope I never have to rewrite them. tested methods to do filetype exclusions using a user input.
 - .
-- V.0.4.2 Note: Switched to VScode. Was using IDLE before, never knew what I was missing.
+- V.0.4.2 Note: Switched to VScode. Was using IDLE before, never knew what I was missing. I'm halfway there, whooah.
 - .
 - V.0.5 Update Plans: Add scissors paper rock game. Coming out 2022-02-02, probably. combine text files into one. 
 - Note on text advanture. It is taking a lot longer than expected, figuring out what text adventures are and how they work as i go. v.0.1 will probably be out 02.02.2022 
